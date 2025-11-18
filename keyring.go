@@ -1,3 +1,5 @@
+//go:build !ios
+
 // Package keyring provides a uniform API over a range of desktop credential storage engines.
 package keyring
 
