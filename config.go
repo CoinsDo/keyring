@@ -1,3 +1,5 @@
+//go:build !ios
+
 package keyring
 
 // Config contains configuration for keyring.
