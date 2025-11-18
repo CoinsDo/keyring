@@ -1,5 +1,3 @@
-//go:build !ios
-
 package keyring
 
 // ArrayKeyring is a mock/non-secure backend that meets the Keyring interface.
